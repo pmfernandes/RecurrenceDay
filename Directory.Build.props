@@ -1,0 +1,9 @@
+<Project>
+    <PropertyGroup>
+        <AssemblyTitle>PMF.RecurrenceDay</AssemblyTitle>
+        <AssemblyProduct>PMF.RecurrenceDay</AssemblyProduct>
+        <Company>PMFernandes</Company>
+        <Authors>Pedro Miguel Fernandes</Authors>
+        <Copyright>© $([System.DateTime]::UtcNow.ToString(yyyy)) PMFernandes</Copyright>
+    </PropertyGroup>
+</Project>
